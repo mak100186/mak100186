@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mak100186
-- 👀 I’m interested in C#, .Net Core, Backend development, Azure cloud services.
-- 🌱 I’m currently learning Azure cloud services and design patterns. 
-- 💞️ I’m looking to collaborate on Microservices and NoSql development projects to further my learning.
+- 👀 I’m interested in C#, .Net Core, Backend development, cloud services.
+- 🌱 I’m currently learning Azure/AWS cloud services. 
+- 💞️ I’m looking to collaborate and contribute on Microservices and NoSql development projects.
 - 📫 How to reach me mak.official@outlook.com
 
 <!---
